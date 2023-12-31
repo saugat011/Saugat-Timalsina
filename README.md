@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugat011&label=Profile%20views&color=0e75b6&style=flat" alt="saugat011" /> </p>
 
-- 🌱 I’m currently learning **React.js, Php, Wordpress**
+- 🌱 I’m currently learning **React.js, Wordpress**
 
 - 📫 How to reach me **https://www.linkedin.com/in/saugat-timalsina-4806b3298/**
 
