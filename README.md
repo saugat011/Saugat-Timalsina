@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/saugat-timalsina-4806b3298/**
 
-- ⚡ Fun fact **I think I am introvert**
+- ⚡ Fun fact **I can center a div**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
